@@ -15,3 +15,6 @@ We like to use Parity Bridge or other similar code to connect Private and Public
 
 Bridge Reference Github Repo: 
 https://github.com/paritytech/parity-bridge
+
+Cosmos:
+https://github.com/cosmos/
