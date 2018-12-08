@@ -2,7 +2,7 @@
 Multiple Blockchain Communication - Hybrid Bridge
 
 The Problem : 
-The number of digital assets and blockchains are growing at a rapid pace. However, these blockchains remain isolated, operating in their own respective silos. Wanchain is the leading interoperability solution working to bridge all blockchains in order to facilitate financial transactions for the Web 3.0 world.
+The number of digital assets and blockchains are growing at a rapid pace. However, these blockchains remain isolated, operating in their own respective silos. XinFin is the leading interoperability solution working to bridge all blockchains in order to facilitate financial transactions for the Web 3.0 world.
 
 What is Blockchain Interoperability?
 The future of the distributed internet is dependent on the ability of blockchain networks to recognize and interact with one another. 
